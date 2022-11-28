@@ -1,0 +1,50 @@
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp Integrador BurgerSix.csproj.AssemblyReference.cache
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp_Integrador_BurgerSix.frmLogueo.resources
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp_Integrador_BurgerSix.Properties.Resources.resources
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp Integrador BurgerSix.csproj.GenerateResource.cache
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp Integrador BurgerSix.csproj.CoreCompileInputs.cache
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\bin\Debug\Tp Integrador BurgerSix.exe.config
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\bin\Debug\Tp Integrador BurgerSix.exe
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\bin\Debug\Tp Integrador BurgerSix.pdb
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp Integrador BurgerSix.exe
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp Integrador BurgerSix.pdb
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp_Integrador_BurgerSix.frmInicio.resources
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp_Integrador_BurgerSix.frmInicioSesion.resources
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp_Integrador_BurgerSix.frmCliente.resources
+C:\Users\DanielaArriazu\source\repos\Tp Integrador BurgerSix\obj\Debug\Tp_Integrador_BurgerSix.frmModificarCliente.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.csproj.AssemblyReference.cache
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.exe
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.pdb
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\bin\Debug\Tp Integrador BurgerSix.exe.config
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\bin\Debug\Tp Integrador BurgerSix.exe
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\bin\Debug\Tp Integrador BurgerSix.pdb
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmCliente_.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmInicio.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmInicioSesion.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmLogueo.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.Properties.Resources.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.csproj.GenerateResource.cache
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.csproj.CoreCompileInputs.cache
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmDetallePedido.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmPrueba.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmArmarPedido_.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.popupModificarItems.resources
+C:\Users\DanielaArriazu\Desktop\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmImpresora.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\bin\Debug\Tp Integrador BurgerSix.exe.config
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\bin\Debug\Tp Integrador BurgerSix.exe
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\bin\Debug\Tp Integrador BurgerSix.pdb
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.csproj.AssemblyReference.cache
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmArmarPedido_.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmCliente_.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmDetallePedido.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmImpresora.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmInicio.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmInicioSesion.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmLogueo.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.frmPrueba.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.popupModificarItems.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp_Integrador_BurgerSix.Properties.Resources.resources
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.csproj.GenerateResource.cache
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.csproj.CoreCompileInputs.cache
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.exe
+C:\Users\tatil\OneDrive\Escritorio\Tp Integrador BurgerSix (1)\obj\Debug\Tp Integrador BurgerSix.pdb
